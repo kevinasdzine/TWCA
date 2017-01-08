@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="9"/>
+    <BuildModes Active="Default"/>
+    <Units Count="1">
+      <Unit0>
+        <Filename Value="GuessingGame.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <CursorPos X="13" Y="11"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit0>
+    </Units>
+    <JumpHistory Count="21" HistoryIndex="20">
+      <Position1>
+        <Filename Value="GuessingGame.lpr"/>
+        <Caret Line="36" Column="9" TopLine="17"/>
+      </Position1>
+      <Position2>
+        <Filename Value="GuessingGame.lpr"/>
+        <Caret Line="34" Column="41" TopLine="17"/>
+      </Position2>
+      <Position3>
+        <Filename Value="GuessingGame.lpr"/>
+        <Caret Line="41" Column="5" TopLine="21"/>
+      </Position3>
+      <Position4>
+        <Filename Value="GuessingGame.lpr"/>
+        <Caret Line="26" Column="59"/>
+      </Position4>
+      <Position5>
+        <Filename Value="GuessingGame.lpr"/>
+        <Caret Line="24" Column="34" TopLine="5"/>
+      </Position5>
+      <Position6>
+        <Filename Value="GuessingGame.lpr"/>
+        <Caret Line="10" Column="21" TopLine="5"/>
+      </Position6>
+      <Position7>
+        <Filename Value="GuessingGame.lpr"/>
+        <Caret Line="11" TopLine="5"/>
+      </Position7>
+      <Position8>
+        <Filename Value="GuessingGame.lpr"/>
+        <Caret Line="12" TopLine="5"/>
+      </Position8>
+      <Position9>
+        <Filename Value="GuessingGame.lpr"/>
+        <Caret Line="13" TopLine="5"/>
+      </Position9>
+      <Position10>
+        <Filename Value="GuessingGame.lpr"/>
+        <Caret Line="14" TopLine="5"/>
+      </Position10>
+      <Position11>
+        <Filename Value="GuessingGame.lpr"/>
+        <Caret Line="15" TopLine="5"/>
+      </Position11>
+      <Position12>
+        <Filename Value="GuessingGame.lpr"/>
+        <Caret Line="10" TopLine="5"/>
+      </Position12>
+      <Position13>
+        <Filename Value="GuessingGame.lpr"/>
+        <Caret Line="11" TopLine="5"/>
+      </Position13>
+      <Position14>
+        <Filename Value="GuessingGame.lpr"/>
+        <Caret Line="12" TopLine="5"/>
+      </Position14>
+      <Position15>
+        <Filename Value="GuessingGame.lpr"/>
+        <Caret Line="13" TopLine="5"/>
+      </Position15>
+      <Position16>
+        <Filename Value="GuessingGame.lpr"/>
+        <Caret Line="14" TopLine="5"/>
+      </Position16>
+      <Position17>
+        <Filename Value="GuessingGame.lpr"/>
+        <Caret Line="18" TopLine="11"/>
+      </Position17>
+      <Position18>
+        <Filename Value="GuessingGame.lpr"/>
+        <Caret Line="19" TopLine="11"/>
+      </Position18>
+      <Position19>
+        <Filename Value="GuessingGame.lpr"/>
+        <Caret Line="20" Column="26" TopLine="11"/>
+      </Position19>
+      <Position20>
+        <Filename Value="GuessingGame.lpr"/>
+        <Caret Line="18" TopLine="15"/>
+      </Position20>
+      <Position21>
+        <Filename Value="GuessingGame.lpr"/>
+        <Caret Line="26" Column="21" TopLine="15"/>
+      </Position21>
+    </JumpHistory>
+  </ProjectSession>
+</CONFIG>
