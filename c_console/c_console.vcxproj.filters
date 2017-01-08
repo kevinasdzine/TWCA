@@ -18,5 +18,8 @@
     <ClCompile Include="Variables.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="GuessingGame.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

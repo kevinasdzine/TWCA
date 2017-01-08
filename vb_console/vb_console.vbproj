@@ -6,7 +6,7 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{5962E3A7-4D54-4B7E-93EF-42FD24C3CAA0}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <StartupObject>vb_console.Variables</StartupObject>
+    <StartupObject>vb_console.GuessingGame</StartupObject>
     <RootNamespace>vb_console</RootNamespace>
     <AssemblyName>vb_console</AssemblyName>
     <FileAlignment>512</FileAlignment>
@@ -68,6 +68,7 @@
     <Import Include="System.Threading.Tasks" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="GuessingGame.vb" />
     <Compile Include="Variables.vb" />
     <Compile Include="My Project\AssemblyInfo.vb" />
     <Compile Include="My Project\Application.Designer.vb">

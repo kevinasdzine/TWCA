@@ -31,5 +31,3 @@ while notGuessed:
         if numberGuessed > number:
             print("That number is too high")
             continue
-
-

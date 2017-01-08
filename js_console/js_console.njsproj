@@ -12,7 +12,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>3930f567-60e2-496f-9ec2-140f72fd3275</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>Variables.js</StartupFile>
+    <StartupFile>GuessingGame.js</StartupFile>
     <StartWebBrowser>False</StartWebBrowser>
     <SearchPath>
     </SearchPath>
@@ -31,6 +31,7 @@
   </PropertyGroup>
   <ItemGroup>
     <Compile Include="app.js" />
+    <Compile Include="GuessingGame.js" />
     <Compile Include="Variables.js" />
     <Content Include="package.json" />
     <Content Include="README.md" />
