@@ -6,7 +6,7 @@ int main(int argc, char *argv[]) {
 	int rangeStart = 1;
 	int rangeEnd = 10;
 	int number = rand() % (rangeEnd - rangeStart) + rangeStart;
-	printf("Pick a number between %d and %d\n", rangeStart, rangeEnd);
+	printf("Pick a number between %d and %d.\n", rangeStart, rangeEnd);
 
 	int notGuessed = -1;
 	int guessCount = 0;

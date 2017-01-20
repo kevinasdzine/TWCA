@@ -5,7 +5,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>5fd6a396-9eda-4c06-b66f-7950fded7bee</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>GuessingGame.py</StartupFile>
+    <StartupFile>GuessingGameGUI.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -23,6 +23,9 @@
   </PropertyGroup>
   <ItemGroup>
     <Compile Include="GuessingGame.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="GuessingGameGUI.py">
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="variables.py" />
