@@ -5,10 +5,11 @@ random.seed()
 
 range_start = 1
 range_end = 10
-number = random.randint(1,10)
+number = random.randint(range_start, range_end)
 not_guessed = True
 number_guessed = 0
 guess_count = 0
+
 
 def try_guess():
     global number_guessed
@@ -37,13 +38,13 @@ def try_guess():
 
 root = tkinter.Tk()
 frame = tkinter.Frame(root)
-frame.pack(padx=10,pady=10)
+frame.pack(padx=10, pady=10)
 title = tkinter.Label(frame)
 title["text"] = "Pick a number between {0} and {1}".format(range_start, range_end)
 title.grid(row=0, column=0)
 inputField = tkinter.Entry(frame)
 inputField.grid(row=1, column=0)
-button = tkinter.Button(frame, text = "Guess", command = try_guess)
+button = tkinter.Button(frame, text="Guess", command=try_guess)
 button.grid(row=2, column=0)
 label = tkinter.Label(frame)
 label.grid(row=3, column=0)
